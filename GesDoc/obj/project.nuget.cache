@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "cwZfbxsvXjdNWZNh2U6s47dm0HPMZAgbNvxQIl2wIzeIqH4GReAw6cH6MmDoofRZqYkQ+3ejuSpibtb1U3TG1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JEFE-ARCHIVO\\source\\repos\\GesDoc\\GesDoc\\GesDoc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\bouncycastle\\1.8.5\\bouncycastle.1.8.5.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\documentformat.openxml\\2.12.2\\documentformat.openxml.2.12.2.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\k4os.compression.lz4\\1.1.11\\k4os.compression.lz4.1.1.11.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\k4os.compression.lz4.streams\\1.1.11\\k4os.compression.lz4.streams.1.1.11.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\mysql.data\\8.0.24\\mysql.data.8.0.24.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\spreadsheetlight\\3.5.0\\spreadsheetlight.3.5.0.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\tulpep.notificationwindow\\1.1.37\\tulpep.notificationwindow.1.1.37.nupkg.sha512"
+  ],
+  "logs": []
+}
